@@ -10,7 +10,7 @@ using  Java languge
 This Challenge improve My coding skills and become a more
 confident programmer, 
 
-This Programe challenge is designed to help you develop your programming skills
+This program challenge is designed to help you develop your programming skills
 in just 30 days. Each day, you'll solve any coding problem to your
 liking that will push you to learn new concepts, improve your
 problem-solving abilities, and build real-world applications.
