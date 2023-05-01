@@ -1,1 +1,4 @@
-# 30-Day-Coding-Challenge
+# 30-Day Coding Challenge
+by
+DevDotCom
+
