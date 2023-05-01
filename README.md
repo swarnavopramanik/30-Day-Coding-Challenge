@@ -22,6 +22,6 @@ Duration: 30 Days
 ![download](https://user-images.githubusercontent.com/105142693/235484282-2bf4d9a4-1159-4b72-93ea-3718e1487dcc.jpeg)
 
 ![1c5ce46e-266f-43f0-b543-75bf341239b5](https://user-images.githubusercontent.com/105142693/235511835-bb9c3768-3438-4167-90ff-1eaaf1123775.png)
-![LeetCode_Logo_black_with_text svg](https://user-images.githubusercontent.com/105142693/235484425-b095a686-ac91-4888-8bc2-4e7421859a93.png)
+
 
 
