@@ -11,8 +11,8 @@ This Challenge improve My coding skills and become a more
 confident programmer, 
 
 This program challenge is designed to help me develop my programming skills
-in just 30 days. Each day, you'll solve any coding problem to your
-liking that will push you to learn new concepts, improve your
+in just 30 days. Each day, I will solve any coding problem to my 
+liking that will push you to learn new concepts, improve my 
 problem-solving abilities, and build real-world applications.
 
 Starting:  01 May, 12:00 AM
